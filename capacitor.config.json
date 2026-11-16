@@ -1,0 +1,8 @@
+{
+  "appId": "com.jachwi3d.app",
+  "appName": "자취방 3D",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#EFE8DD"
+  }
+}
